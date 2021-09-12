@@ -1,6 +1,8 @@
 {
 	"name": "ms-teams-vscode",
 	"displayName": "Microsoft Teams for VSCode",
+	"publisher": "sunn-e",
+	"repository": "https://github.com/sunn-e/teams-vscode",
 	"description": "Microsoft Teams Extension for Visual Studio Code",
 	"version": "0.0.1",
 	"engines": {
@@ -17,7 +19,7 @@
 		"commands": [
 			{
 				"command": "ms-teams-vscode.teams",
-				"title": "Open MS Teams"
+				"title": "Open Microsoft Teams"
 			}
 		]
 	},
