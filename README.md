@@ -15,10 +15,6 @@ This is an unofficial Microsoft Teams extension for VSCode.
 
 ## Extension Settings
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
 This extension contributes the following settings:
 
 * `ms-teams-vscode.teams`: To Open the Teams web version

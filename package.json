@@ -4,7 +4,7 @@
 	"publisher": "sunn-e",
 	"repository": "https://github.com/sunn-e/teams-vscode",
 	"description": "Microsoft Teams Extension for Visual Studio Code",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
